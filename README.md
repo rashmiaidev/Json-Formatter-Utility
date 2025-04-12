@@ -1,6 +1,7 @@
 # JSON Formatter
 
 A simple, standalone JSON formatter tool that helps you format, validate, and minify JSON data.
+Access URL : https://rashmiaidev.github.io/Json-Formatter-Utility/
 
 ## Features
 
